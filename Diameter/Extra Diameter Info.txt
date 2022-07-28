@@ -1,0 +1,16 @@
+Information from NYIT
+Pixel Size(µm): 12.964057
+Image Dimensions(pixels): 664x672
+Image Area(m): 8.60847448e-03 x 8.71219104e-03
+
+Diameter Measurements based on GeoDict Data
+Number of lines: 962
+Unit: meters
+Average: 5.84825053e-05
+Min: 3.04227531e-05
+Max: 1.03157636e-04
+
+
+Extra Notes:
+Diameter measurements were taken from GeoDict instead of from the scans since I couldn’t figure out an easy way to separate hair strands when they collided in the scans. Since GeoDict has published research on separating multiple objects that collided, I concluded that their measurements would be more accurate than my own.
+Article: https://www.ndt.net/article/ctc2018/papers/ICT2018_paper_id128.pdf
