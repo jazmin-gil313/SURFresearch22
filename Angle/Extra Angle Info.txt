@@ -1,6 +1,6 @@
 Angle Measurements based on GeoDict Data
 Number of lines: 962
 Unit: radians
-Average: 5.84825053e-05
+Average: 2.58519980383366
 Min: 0.02358
 Max: 3.129
